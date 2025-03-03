@@ -1,5 +1,7 @@
+*.png
 *data/*
 */data/*
+*/data
 *.h5ad
 
 *.DS_Store
